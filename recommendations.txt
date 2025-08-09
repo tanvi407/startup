@@ -1,0 +1,8 @@
+Indian Startup Funding Analysis - Recommendations
+
+1. Observed data up to year 2022. Investors should review macro trend for 2022 vs previous years to identify momentum shifts.
+2. Geographic focus: Bangalore remains a funding hub. Founders outside major hub cities should evaluate remote-first traction strategies to tap investor pools.
+3. Active investors: a, , l are among the most active. Founders should target investor syndicates including these names for better chances in follow-on rounds.
+4. Deal size insight: Median deal sizes are sizable; consider selecting for scalability and unit economics early.
+5. General: Investors should diversify across stages (seed + Series A) and track sector-specific KPIs (GMV for marketplaces, ARR for SaaS, CAC/LTV for consumer-facing startups).
+6. Founders: Focus on clear unit economics, define measurable traction metrics, and prepare to showcase path-to-profitability as valuations tighten.
